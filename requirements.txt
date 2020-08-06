@@ -14,7 +14,6 @@ mccabe==0.6.1
 pprintpp==0.4.0
 psycopg2==2.8.5
 Pygments==2.6.1
-pylint==2.5.3
 pytz==2020.1
 requests==2.24.0
 rich==5.0.0
