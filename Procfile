@@ -1,1 +1,1 @@
-web: gunicorn Newser.wsgi9
+web: gunicorn Newser.wsgi
